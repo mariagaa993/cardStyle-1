@@ -2,6 +2,6 @@
 
 Credit Card.
 
-Link: https://mariagaa993.github.io/cardStyle-1/creditCard.html
+Link: https://mariagaa993.github.io/cardStyle-1/creditCard
 
 *** NO responsive ***
